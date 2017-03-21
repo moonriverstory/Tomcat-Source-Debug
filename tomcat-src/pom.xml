@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.apache.tomcat</groupId>
-    <artifactId>Tomcat7.0</artifactId>
-    <version>7.0</version>
+    <artifactId>Tomcat9.0</artifactId>
+    <version>9.0</version>
 
 
     <build>
-        <finalName>Tomcat7.0</finalName>
-        <sourceDirectory>/apache-tomcat-7.0.76-src/java</sourceDirectory>
-        <testSourceDirectory>/apache-tomcat-7.0.76-src/test</testSourceDirectory>
+        <finalName>Tomcat9.0</finalName>
+        <sourceDirectory>/apache-tomcat-9.0.0.M18-src/java</sourceDirectory>
+        <testSourceDirectory>/apache-tomcat-9.0.0.M18-src/test</testSourceDirectory>
         <resources>
             <resource>
                 <directory>java</directory>
@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.eclipse.jdt.core.compiler</groupId>
             <artifactId>ecj</artifactId>
-            <version>4.2.2</version>
+            <version>4.6.1</version>
         </dependency>
     </dependencies>
 

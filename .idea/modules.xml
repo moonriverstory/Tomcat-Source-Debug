@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tomcat-Source-Debug.iml" filepath="$PROJECT_DIR$/Tomcat-Source-Debug.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tomcat-src/Tomcat7.0.iml" filepath="$PROJECT_DIR$/tomcat-src/Tomcat7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-src/Tomcat9.0.iml" filepath="$PROJECT_DIR$/tomcat-src/Tomcat9.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-tomcat-debug.iml" filepath="$PROJECT_DIR$/apache-tomcat-debug.iml" />
     </modules>
   </component>
 </project>

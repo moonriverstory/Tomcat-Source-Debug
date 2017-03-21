@@ -22,12 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Tomcat7.0" />
+        <module name="Tomcat9.0" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Tomcat-Source-Debug" target="1.8" />
-      <module name="Tomcat7.0" target="1.8" />
+      <module name="apache-tomcat-debug" target="1.5" />
+      <module name="Tomcat9.0" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
